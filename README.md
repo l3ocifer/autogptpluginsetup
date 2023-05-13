@@ -1,2 +1,2 @@
 # autogptpluginsetup
-bash script to setup AutpoGPT plugins easily.
+bash script to setup AutoGPT plugins easily.
